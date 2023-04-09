@@ -12,7 +12,7 @@ description: I'm Nora and I am a Research Scientist in Natural Language Processi
 
 I am Nora Kassner, an incoming  __Research Scientist__ at [__DeepMind__](https://www.deepmind.com/) working on Natural Language Processing. MY research focuses on knowledge and reasoning in deep learning models.
 
-Also, I am [__SIGREP__](https://www.sigrep.org/index.html) Secretary for 2022-2024; I co-organize the [__Repl4NLP__](https://sites.google.com/view/repl4nlp2023/?pli=1) and [__BigPicture__](https://www.bigpictureworkshop.com/) workshops; And am a member of [__KI macht Schule__](https://ki-macht-schule.de) ("AI for schools").
+Also, I am [__SIGREP__](https://www.sigrep.org/index.html) Secretary for 2022-2024; I co-organize the [__Repl4NLP__](https://sites.google.com/view/repl4nlp2023/?pli=1) and [__BigPicture__](https://www.bigpictureworkshop.com/) workshops for 2023; co-led the modeling metadata working group of [__BigScience__](https://bigscience.huggingface.co/) in 2022; and am a member of [__KI macht Schule__](https://ki-macht-schule.de) ("AI for schools").
 
 Before that, I was a Research Scientist at [__Meta AI__](https://ai.facebook.com/) and a PhD student at the University of Munich supervised by [__Hinrich Schütze__](https://scholar.google.com/citations?user=qIL9dWUAAAAJ&hl=en) and supported by the  [__Munich Centre of Machine Learning__](https://mcml.ai/). 
 
