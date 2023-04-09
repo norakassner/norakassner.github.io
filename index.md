@@ -4,7 +4,7 @@ description: I'm Nora and I am a Research Scientist in Natural Language Processi
 ---
 
 <!-- (comment) the image below can be found in img folder of this very project-->
-![i_am_a_fox](./img/people/Foto.jpeg){: style="float: right; margin: 0px 15px; width: 250px; border-radius: 40%" name="nora"}
+![i_am_a_fox](./img/people/Foto.jpeg){: style="float: right; margin: 0px 10px; width: 250px; border-radius: 43%" name="nora"}
 
 
 <!-- <a href= onMouseOver="document.readmore_1.src='/img/people/Foto.jpeg';" onMouseOut="document.readmore_1.src='/img/people/Foto.jpeg';">
