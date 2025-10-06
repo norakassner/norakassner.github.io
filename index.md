@@ -14,4 +14,4 @@ I am Nora Kassner, a  __Research Scientist__ at [__DeepMind__](https://www.deepm
 
 Before that, I was a Research Scientist at [__Meta AI__](https://ai.facebook.com/) and a PhD student at the University of Munich supervised by [__Hinrich Schütze__](https://scholar.google.com/citations?user=qIL9dWUAAAAJ&hl=en) and supported by the  [__Munich Center for Machine Learning__](https://mcml.ai/). 
 
-During my PhD, I interned with the [__Allen Institute for AI__](https://allenai.org/) (AI2) and [__Meta AI__](https://ai.facebook.com/). I recieved AI2's [__Outstanding Intern of the Year Award__](https://allenai.org/outstanding-interns) in 2021.
+During my PhD, I interned with the [__Allen Institute for AI__](https://allenai.org/) (AI2) and [__Meta AI__](https://ai.facebook.com/). I received AI2's [__Outstanding Intern of the Year Award__](https://allenai.org/outstanding-interns) in 2021.
